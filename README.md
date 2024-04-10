@@ -151,18 +151,6 @@ Thanks to a group of talented developers, there is now a [Telegram bot for remot
 
 <a href="https://www.buymeacoffee.com/edeng" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
-## Join the Chat
-
--   **Discord**: [Invite Link](https://discord.gg/m4TNaxreCN)
-
-## FAQ
-
-A list of answers to what seem to be the most frequently asked questions can be found in our discord server, in the corresponding channel.
-
-<p align="center">
-  <img src = "https://usercontent2.hubstatic.com/6061829.jpg">
-</p>
-
 ## Disclaimer
 
 This project is for informational purposes only. You should not construe any
